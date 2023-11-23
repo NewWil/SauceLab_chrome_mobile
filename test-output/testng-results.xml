@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="25" passed="25" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-24T03:56:40 SGT" name="Default suite" finished-at="2023-11-24T04:00:43 SGT" duration-ms="243038">
+    <groups>
+    </groups>
+    <test started-at="2023-11-24T03:56:40 SGT" name="Default test" finished-at="2023-11-24T04:00:43 SGT" duration-ms="243038">
+      <class name="com.night.Appium.CheckoutInfo">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:56:40 SGT" name="ConfigureAppium" finished-at="2023-11-24T03:56:48 SGT" duration-ms="8440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method is-config="true" signature="loginpage()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:56:48 SGT" name="loginpage" finished-at="2023-11-24T03:56:49 SGT" duration-ms="983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method signature="CancelButton()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:56:49 SGT" name="CancelButton" finished-at="2023-11-24T03:56:51 SGT" duration-ms="1535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CancelButton -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:56:51 SGT" name="teardown" finished-at="2023-11-24T03:56:51 SGT" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:56:51 SGT" name="ConfigureAppium" finished-at="2023-11-24T03:56:58 SGT" duration-ms="7324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method is-config="true" signature="loginpage()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:56:58 SGT" name="loginpage" finished-at="2023-11-24T03:56:59 SGT" duration-ms="1055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method signature="Checkout(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:56:59 SGT" name="Checkout" data-provider="CheckoutDataset" finished-at="2023-11-24T03:57:01 SGT" duration-ms="1540" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Wilbert]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Lacuesta]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2306]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:57:01 SGT" name="teardown" finished-at="2023-11-24T03:57:01 SGT" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:57:01 SGT" name="ConfigureAppium" finished-at="2023-11-24T03:57:08 SGT" duration-ms="7267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method is-config="true" signature="loginpage()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:57:08 SGT" name="loginpage" finished-at="2023-11-24T03:57:09 SGT" duration-ms="984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method signature="Checkout(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:57:09 SGT" name="Checkout" data-provider="CheckoutDataset" finished-at="2023-11-24T03:57:11 SGT" duration-ms="1369" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Lacuesta]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2306]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:57:11 SGT" name="teardown" finished-at="2023-11-24T03:57:11 SGT" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:57:11 SGT" name="ConfigureAppium" finished-at="2023-11-24T03:57:18 SGT" duration-ms="7521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method is-config="true" signature="loginpage()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:57:18 SGT" name="loginpage" finished-at="2023-11-24T03:57:19 SGT" duration-ms="1140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method signature="Checkout(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:57:19 SGT" name="Checkout" data-provider="CheckoutDataset" finished-at="2023-11-24T03:57:21 SGT" duration-ms="1264" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Wilbert]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2306]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:57:21 SGT" name="teardown" finished-at="2023-11-24T03:57:21 SGT" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:57:21 SGT" name="ConfigureAppium" finished-at="2023-11-24T03:57:28 SGT" duration-ms="7310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method is-config="true" signature="loginpage()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:57:28 SGT" name="loginpage" finished-at="2023-11-24T03:57:29 SGT" duration-ms="1142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method signature="Checkout(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:57:29 SGT" name="Checkout" data-provider="CheckoutDataset" finished-at="2023-11-24T03:57:31 SGT" duration-ms="1407" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Wilbert]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Lacuesta]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:57:31 SGT" name="teardown" finished-at="2023-11-24T03:57:31 SGT" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:57:31 SGT" name="ConfigureAppium" finished-at="2023-11-24T03:57:38 SGT" duration-ms="7306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method is-config="true" signature="loginpage()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:57:38 SGT" name="loginpage" finished-at="2023-11-24T03:57:39 SGT" duration-ms="1027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method signature="Checkout(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:57:39 SGT" name="Checkout" data-provider="CheckoutDataset" finished-at="2023-11-24T03:57:40 SGT" duration-ms="1143" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2306]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:57:40 SGT" name="teardown" finished-at="2023-11-24T03:57:41 SGT" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:57:41 SGT" name="ConfigureAppium" finished-at="2023-11-24T03:57:48 SGT" duration-ms="7312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method is-config="true" signature="loginpage()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:57:48 SGT" name="loginpage" finished-at="2023-11-24T03:57:49 SGT" duration-ms="1029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method signature="Checkout(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:57:49 SGT" name="Checkout" data-provider="CheckoutDataset" finished-at="2023-11-24T03:57:50 SGT" duration-ms="1231" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Lacuesta]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:57:50 SGT" name="teardown" finished-at="2023-11-24T03:57:50 SGT" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:57:50 SGT" name="ConfigureAppium" finished-at="2023-11-24T03:57:58 SGT" duration-ms="7612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method is-config="true" signature="loginpage()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:57:58 SGT" name="loginpage" finished-at="2023-11-24T03:57:59 SGT" duration-ms="1041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method signature="Checkout(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:57:59 SGT" name="Checkout" data-provider="CheckoutDataset" finished-at="2023-11-24T03:58:00 SGT" duration-ms="1250" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Wilbert]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.CheckoutInfo@2d140a7]" started-at="2023-11-24T03:58:00 SGT" name="teardown" finished-at="2023-11-24T03:58:00 SGT" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.night.Appium.CheckoutInfo -->
+      <class name="com.night.Appium.NegativeLoginPage">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.NegativeLoginPage@ec50f54]" started-at="2023-11-24T03:58:00 SGT" name="ConfigureAppium" finished-at="2023-11-24T03:58:08 SGT" duration-ms="7183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="PositiveLoginTest1(java.lang.String,java.lang.String)[pri:0, instance:com.night.Appium.NegativeLoginPage@ec50f54]" started-at="2023-11-24T03:58:08 SGT" name="PositiveLoginTest1" data-provider="NegativeLoginDataset" finished-at="2023-11-24T03:58:09 SGT" duration-ms="1165" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[negative_password1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PositiveLoginTest1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.NegativeLoginPage@ec50f54]" started-at="2023-11-24T03:58:09 SGT" name="teardown" finished-at="2023-11-24T03:58:09 SGT" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.NegativeLoginPage@ec50f54]" started-at="2023-11-24T03:58:09 SGT" name="ConfigureAppium" finished-at="2023-11-24T03:58:16 SGT" duration-ms="7186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="PositiveLoginTest1(java.lang.String,java.lang.String)[pri:0, instance:com.night.Appium.NegativeLoginPage@ec50f54]" started-at="2023-11-24T03:58:16 SGT" name="PositiveLoginTest1" data-provider="NegativeLoginDataset" finished-at="2023-11-24T03:58:17 SGT" duration-ms="1138" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[negative_username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PositiveLoginTest1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.NegativeLoginPage@ec50f54]" started-at="2023-11-24T03:58:17 SGT" name="teardown" finished-at="2023-11-24T03:58:17 SGT" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.NegativeLoginPage@ec50f54]" started-at="2023-11-24T03:58:17 SGT" name="ConfigureAppium" finished-at="2023-11-24T03:58:25 SGT" duration-ms="7218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="PositiveLoginTest1(java.lang.String,java.lang.String)[pri:0, instance:com.night.Appium.NegativeLoginPage@ec50f54]" started-at="2023-11-24T03:58:25 SGT" name="PositiveLoginTest1" data-provider="NegativeLoginDataset" finished-at="2023-11-24T03:58:26 SGT" duration-ms="1240" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[negatice_username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[negative_password1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PositiveLoginTest1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.NegativeLoginPage@ec50f54]" started-at="2023-11-24T03:58:26 SGT" name="teardown" finished-at="2023-11-24T03:58:26 SGT" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.night.Appium.NegativeLoginPage -->
+      <class name="com.night.Appium.CheckoutOverview">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.CheckoutOverview@bf71cec]" started-at="2023-11-24T03:58:26 SGT" name="ConfigureAppium" finished-at="2023-11-24T03:58:33 SGT" duration-ms="7236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method is-config="true" signature="loginpage()[pri:0, instance:com.night.Appium.CheckoutOverview@bf71cec]" started-at="2023-11-24T03:58:33 SGT" name="loginpage" finished-at="2023-11-24T03:58:34 SGT" duration-ms="1028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method signature="CheckoutOverviewTest()[pri:0, instance:com.night.Appium.CheckoutOverview@bf71cec]" started-at="2023-11-24T03:58:34 SGT" name="CheckoutOverviewTest" finished-at="2023-11-24T03:58:37 SGT" duration-ms="3029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckoutOverviewTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.CheckoutOverview@bf71cec]" started-at="2023-11-24T03:58:37 SGT" name="teardown" finished-at="2023-11-24T03:58:37 SGT" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.CheckoutOverview@bf71cec]" started-at="2023-11-24T03:58:37 SGT" name="ConfigureAppium" finished-at="2023-11-24T03:58:45 SGT" duration-ms="7201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method is-config="true" signature="loginpage()[pri:0, instance:com.night.Appium.CheckoutOverview@bf71cec]" started-at="2023-11-24T03:58:45 SGT" name="loginpage" finished-at="2023-11-24T03:58:46 SGT" duration-ms="1008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method signature="btnCancelOverview()[pri:0, instance:com.night.Appium.CheckoutOverview@bf71cec]" started-at="2023-11-24T03:58:46 SGT" name="btnCancelOverview" finished-at="2023-11-24T03:58:47 SGT" duration-ms="1663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btnCancelOverview -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.CheckoutOverview@bf71cec]" started-at="2023-11-24T03:58:47 SGT" name="teardown" finished-at="2023-11-24T03:58:47 SGT" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.night.Appium.CheckoutOverview -->
+      <class name="com.night.Appium.AddtoCart">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.AddtoCart@22d6cac2]" started-at="2023-11-24T03:58:47 SGT" name="ConfigureAppium" finished-at="2023-11-24T03:58:55 SGT" duration-ms="7282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method is-config="true" signature="loginpage()[pri:0, instance:com.night.Appium.AddtoCart@22d6cac2]" started-at="2023-11-24T03:58:55 SGT" name="loginpage" finished-at="2023-11-24T03:58:56 SGT" duration-ms="1013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method signature="AddtoCartTest()[pri:0, instance:com.night.Appium.AddtoCart@22d6cac2]" started-at="2023-11-24T03:58:56 SGT" name="AddtoCartTest" finished-at="2023-11-24T03:58:57 SGT" duration-ms="1404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddtoCartTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.AddtoCart@22d6cac2]" started-at="2023-11-24T03:58:57 SGT" name="teardown" finished-at="2023-11-24T03:58:57 SGT" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.night.Appium.AddtoCart -->
+      <class name="com.night.Appium.Filter">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.Filter@2577d6c8]" started-at="2023-11-24T03:58:57 SGT" name="ConfigureAppium" finished-at="2023-11-24T03:59:04 SGT" duration-ms="7252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method is-config="true" signature="loginpage()[pri:0, instance:com.night.Appium.Filter@2577d6c8]" started-at="2023-11-24T03:59:04 SGT" name="loginpage" finished-at="2023-11-24T03:59:05 SGT" duration-ms="996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method signature="PriceHightoLow()[pri:0, instance:com.night.Appium.Filter@2577d6c8]" started-at="2023-11-24T03:59:05 SGT" name="PriceHightoLow" finished-at="2023-11-24T03:59:06 SGT" duration-ms="727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PriceHightoLow -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.Filter@2577d6c8]" started-at="2023-11-24T03:59:06 SGT" name="teardown" finished-at="2023-11-24T03:59:06 SGT" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.Filter@2577d6c8]" started-at="2023-11-24T03:59:06 SGT" name="ConfigureAppium" finished-at="2023-11-24T03:59:14 SGT" duration-ms="7553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method is-config="true" signature="loginpage()[pri:0, instance:com.night.Appium.Filter@2577d6c8]" started-at="2023-11-24T03:59:14 SGT" name="loginpage" finished-at="2023-11-24T03:59:15 SGT" duration-ms="1003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method signature="PriceLowtoHigh()[pri:0, instance:com.night.Appium.Filter@2577d6c8]" started-at="2023-11-24T03:59:15 SGT" name="PriceLowtoHigh" finished-at="2023-11-24T03:59:16 SGT" duration-ms="722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PriceLowtoHigh -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.Filter@2577d6c8]" started-at="2023-11-24T03:59:16 SGT" name="teardown" finished-at="2023-11-24T03:59:16 SGT" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.Filter@2577d6c8]" started-at="2023-11-24T03:59:16 SGT" name="ConfigureAppium" finished-at="2023-11-24T03:59:23 SGT" duration-ms="7175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method is-config="true" signature="loginpage()[pri:0, instance:com.night.Appium.Filter@2577d6c8]" started-at="2023-11-24T03:59:23 SGT" name="loginpage" finished-at="2023-11-24T03:59:24 SGT" duration-ms="1039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method signature="sortAtoZ()[pri:0, instance:com.night.Appium.Filter@2577d6c8]" started-at="2023-11-24T03:59:24 SGT" name="sortAtoZ" finished-at="2023-11-24T03:59:26 SGT" duration-ms="2221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortAtoZ -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.Filter@2577d6c8]" started-at="2023-11-24T03:59:26 SGT" name="teardown" finished-at="2023-11-24T03:59:26 SGT" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.Filter@2577d6c8]" started-at="2023-11-24T03:59:26 SGT" name="ConfigureAppium" finished-at="2023-11-24T03:59:34 SGT" duration-ms="7592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method is-config="true" signature="loginpage()[pri:0, instance:com.night.Appium.Filter@2577d6c8]" started-at="2023-11-24T03:59:34 SGT" name="loginpage" finished-at="2023-11-24T03:59:35 SGT" duration-ms="1208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method signature="sortZtoA()[pri:0, instance:com.night.Appium.Filter@2577d6c8]" started-at="2023-11-24T03:59:35 SGT" name="sortZtoA" finished-at="2023-11-24T03:59:36 SGT" duration-ms="446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortZtoA -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.Filter@2577d6c8]" started-at="2023-11-24T03:59:36 SGT" name="teardown" finished-at="2023-11-24T03:59:36 SGT" duration-ms="147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.night.Appium.Filter -->
+      <class name="com.night.Appium.RemovetoCart">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.RemovetoCart@5f233b26]" started-at="2023-11-24T04:00:09 SGT" name="ConfigureAppium" finished-at="2023-11-24T04:00:16 SGT" duration-ms="6992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method is-config="true" signature="loginpage()[pri:0, instance:com.night.Appium.RemovetoCart@5f233b26]" started-at="2023-11-24T04:00:16 SGT" name="loginpage" finished-at="2023-11-24T04:00:17 SGT" duration-ms="1005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method signature="Checkout()[pri:0, instance:com.night.Appium.RemovetoCart@5f233b26]" started-at="2023-11-24T04:00:17 SGT" name="Checkout" finished-at="2023-11-24T04:00:18 SGT" duration-ms="975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.RemovetoCart@5f233b26]" started-at="2023-11-24T04:00:18 SGT" name="teardown" finished-at="2023-11-24T04:00:18 SGT" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.RemovetoCart@5f233b26]" started-at="2023-11-24T04:00:18 SGT" name="ConfigureAppium" finished-at="2023-11-24T04:00:26 SGT" duration-ms="7249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method is-config="true" signature="loginpage()[pri:0, instance:com.night.Appium.RemovetoCart@5f233b26]" started-at="2023-11-24T04:00:26 SGT" name="loginpage" finished-at="2023-11-24T04:00:27 SGT" duration-ms="1021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method signature="ContinueShopping()[pri:0, instance:com.night.Appium.RemovetoCart@5f233b26]" started-at="2023-11-24T04:00:27 SGT" name="ContinueShopping" finished-at="2023-11-24T04:00:27 SGT" duration-ms="510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContinueShopping -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.RemovetoCart@5f233b26]" started-at="2023-11-24T04:00:27 SGT" name="teardown" finished-at="2023-11-24T04:00:27 SGT" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.RemovetoCart@5f233b26]" started-at="2023-11-24T04:00:27 SGT" name="ConfigureAppium" finished-at="2023-11-24T04:00:35 SGT" duration-ms="7491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method is-config="true" signature="loginpage()[pri:0, instance:com.night.Appium.RemovetoCart@5f233b26]" started-at="2023-11-24T04:00:35 SGT" name="loginpage" finished-at="2023-11-24T04:00:36 SGT" duration-ms="1041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method signature="Remove()[pri:0, instance:com.night.Appium.RemovetoCart@5f233b26]" started-at="2023-11-24T04:00:36 SGT" name="Remove" finished-at="2023-11-24T04:00:43 SGT" duration-ms="6820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Remove -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.RemovetoCart@5f233b26]" started-at="2023-11-24T04:00:43 SGT" name="teardown" finished-at="2023-11-24T04:00:43 SGT" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.night.Appium.RemovetoCart -->
+      <class name="com.night.Appium.PositiveLogin">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.PositiveLogin@6c000e0c]" started-at="2023-11-24T03:59:36 SGT" name="ConfigureAppium" finished-at="2023-11-24T03:59:43 SGT" duration-ms="7195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="PositiveLoginTest1(java.lang.String,java.lang.String)[pri:0, instance:com.night.Appium.PositiveLogin@6c000e0c]" started-at="2023-11-24T03:59:43 SGT" name="PositiveLoginTest1" data-provider="PositiveLoginDataset" finished-at="2023-11-24T03:59:44 SGT" duration-ms="1029" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PositiveLoginTest1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.PositiveLogin@6c000e0c]" started-at="2023-11-24T03:59:44 SGT" name="teardown" finished-at="2023-11-24T03:59:44 SGT" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.PositiveLogin@6c000e0c]" started-at="2023-11-24T03:59:44 SGT" name="ConfigureAppium" finished-at="2023-11-24T03:59:51 SGT" duration-ms="7165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="PositiveLoginTest1(java.lang.String,java.lang.String)[pri:0, instance:com.night.Appium.PositiveLogin@6c000e0c]" started-at="2023-11-24T03:59:51 SGT" name="PositiveLoginTest1" data-provider="PositiveLoginDataset" finished-at="2023-11-24T03:59:52 SGT" duration-ms="1004" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[error_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PositiveLoginTest1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.PositiveLogin@6c000e0c]" started-at="2023-11-24T03:59:52 SGT" name="teardown" finished-at="2023-11-24T03:59:52 SGT" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.PositiveLogin@6c000e0c]" started-at="2023-11-24T03:59:52 SGT" name="ConfigureAppium" finished-at="2023-11-24T04:00:00 SGT" duration-ms="7198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="PositiveLoginTest1(java.lang.String,java.lang.String)[pri:0, instance:com.night.Appium.PositiveLogin@6c000e0c]" started-at="2023-11-24T04:00:00 SGT" name="PositiveLoginTest1" data-provider="PositiveLoginDataset" finished-at="2023-11-24T04:00:01 SGT" duration-ms="1057" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[problem_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PositiveLoginTest1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.PositiveLogin@6c000e0c]" started-at="2023-11-24T04:00:01 SGT" name="teardown" finished-at="2023-11-24T04:00:01 SGT" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:com.night.Appium.PositiveLogin@6c000e0c]" started-at="2023-11-24T04:00:01 SGT" name="ConfigureAppium" finished-at="2023-11-24T04:00:08 SGT" duration-ms="7101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="PositiveLoginTest1(java.lang.String,java.lang.String)[pri:0, instance:com.night.Appium.PositiveLogin@6c000e0c]" started-at="2023-11-24T04:00:08 SGT" name="PositiveLoginTest1" data-provider="PositiveLoginDataset" finished-at="2023-11-24T04:00:09 SGT" duration-ms="1016" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[visual_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PositiveLoginTest1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.night.Appium.PositiveLogin@6c000e0c]" started-at="2023-11-24T04:00:09 SGT" name="teardown" finished-at="2023-11-24T04:00:09 SGT" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.night.Appium.PositiveLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
